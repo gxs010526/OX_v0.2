@@ -1,0 +1,37 @@
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local agent/editor metadata
+.agents/
+.vscode/
+.idea/
+
+# Caches and temporary files
+cache/
+tmp/
+*.log
+2.31
+
+# Generated experiment outputs
+experiment_results_normal_v3/
+experiment_results_normal_v4/
+experiment_results_normal_v5/
+review_filled/
+*.zip
+frame_stats.csv
+summary.csv
+trust_events.csv
+trust_updates.csv
+
+# Secrets and local environment files
+.env
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
