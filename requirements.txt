@@ -1,0 +1,12 @@
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+requests==2.32.5
+osmnx==2.0.7
+geopandas==1.0.1
+networkx
+matplotlib
+pillow
+tzdata==2025.2
+numexpr==2.10.2
+bottleneck==1.4.2
